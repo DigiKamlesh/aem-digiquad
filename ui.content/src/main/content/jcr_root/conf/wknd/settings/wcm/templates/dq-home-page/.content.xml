@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="cq:Template">
+    <jcr:content
+        cq:lastModified="{Date}2022-07-14T01:17:29.765+05:30"
+        cq:lastModifiedBy="admin"
+        cq:templateType="/conf/wknd/settings/wcm/template-types/page"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="DQ Home Page"
+        status="enabled"/>
+</jcr:root>

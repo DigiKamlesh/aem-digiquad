@@ -1,0 +1,295 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    overflow-x: hidden;
+    position: relative;
+}
+
+.topbar{
+    background-color: #3763b2;
+    border-bottom: solid 1px #3763b2;
+    padding: 6px 0px;
+}
+
+.ourExpBg{
+    background-color: #f2f5f6;
+    padding: 50px 0px;
+}
+
+.wdq_bg{
+    background-image: url("../images/why_dq_bg.png");
+    background-repeat: no-repeat;
+    padding: 50px 0px;
+}
+
+.topbar_txt{
+    color: #ffffff;
+
+}
+
+.topBarIcons{
+    margin-right: 15px;
+}
+
+#navbarNav{
+    display: inline-block !important;
+}
+
+.header_navbar .navbarList{
+    float:right;
+}
+
+.nav-link{
+    color: #000000  !important;
+    font-size: 20px;
+    padding-left: 22px !important;
+    padding-right: 22px !important;
+}
+
+.our_services,
+.our_experience,
+.about_us,
+.why_digiquad{
+    margin-top: 3.5%;
+}
+
+.weoffer_lightbg{
+    background-color: #3763b2;
+    border-radius: 15px !important;
+    -moz-border-radius: 15px !important;
+    -webkit-border-radius: 15px !important;
+    -khtml-border-radius: 15px !important;
+    -ms-border-radius: 15px !important;
+    padding-bottom: 50px;
+}
+
+.weoffer_darkbg{
+    background-color: #182054;
+    border-radius: 15px !important;
+    -moz-border-radius: 15px !important;
+    -webkit-border-radius: 15px !important;
+    -khtml-border-radius: 15px !important;
+    -ms-border-radius: 15px !important;
+    padding-bottom: 50px;
+}
+
+.our_services .card{
+    min-height: 385px;
+    padding-bottom: 0px !important;
+}
+
+.weoffer_lightbg .card-img-top,
+.weoffer_darkbg .card-img-top{
+    border-radius: 15px 15px 0px 0px  !important;
+    -moz-border-radius: 15px 15px 0px 0px !important;
+    -webkit-border-radius: 15px 15px 0px 0px !important;
+    -khtml-border-radius: 15px 15px 0px 0px !important;
+    -ms-border-radius: 15px 15px 0px 0px !important;
+}
+
+.our_services .card-title{
+    text-align: center;
+    color: #182054;
+}
+
+.our_services  .weoffer_darkbg .card-title{
+    color: #3763b2 !important;
+}
+
+.our_services .card-text{
+    color: #ffffff;
+    text-align: center;
+    font-size: 14px;
+}
+
+.weOfferTitle{
+    font-size: 43px;
+}
+
+.our_expTitle,
+.aboutTitle{
+    font-weight: bold;
+    font-size: 18px;
+    color: #3763b2;
+}
+
+.our_expSubTitle,
+.aboutSubTitle{
+    font-size: 45px;
+    line-height: 60px;
+}
+
+.our_exptext,
+.aboutTxt{
+    font-size: 16px;
+    margin-bottom: 40px;
+    margin-top: 0px;
+}
+
+.our_exptext.exptxt1{
+    margin-top: 0px !important;
+}
+
+.our_explist ul{
+    margin: 0px;
+    padding: 0px;
+    margin-top: 22%;
+}
+
+.our_explist ul li{
+    list-style-image: url("../images/list-arrow.png") ;
+    font-size: 27px;
+    font-weight: 300;
+    margin-left: 25px;
+    margin-top: 30px;
+    padding-right: 12px;
+}
+
+.our_explist ul li:first-child{
+    margin-top: 0px !important;
+}
+
+.our_explist ul li:last-child{
+    list-style: none !important;
+}
+
+.about_us .card{
+    border-radius: 15px 15px 15px 15px  !important;
+    -moz-border-radius: 15px 15px 15px 15px !important;
+    -webkit-border-radius: 15px 15px 15px 15px !important;
+    -khtml-border-radius: 15px 15px 15px 15px !important;
+    -ms-border-radius: 15px 15px 15px 15px !important;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.aboutImg{
+    height: 80px;
+    width: 80px;
+    margin: 0px auto;
+}
+
+.carousel-item h1{
+    font-size: 70px;
+    position: relative;
+    left: -80px;
+    top: -220px;
+    text-align: left;
+    color: #ffffff;
+}
+
+.why_digiquadheading{
+    margin-bottom: 90px;
+}
+
+.why_digiquadheading h1{
+    text-align: center;
+    font-size: 45px;
+    color: #3763b2;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.why_digiquadBg{
+    background-color: #d3e2fb;
+    border-radius: 15px !important;
+    -moz-border-radius: 15px !important;
+    -webkit-border-radius: 15px !important;
+    -khtml-border-radius: 15px !important;
+    -ms-border-radius: 15px !important;
+    width: 100%;
+    float: left;
+    padding: 30px;
+    min-height: 420px;
+}
+
+.why_digiquadBg .img-fluid{
+    margin: -100px auto 0px auto;
+    display: inherit;
+}
+
+.whydigiQuad_subheading h3{
+    color:  #000000;
+    text-align: center;
+}
+
+.whydigiquad_text{
+    text-align: center;
+}
+
+.footerlgtbg{
+    background-color: #00bbf1;
+    padding: 15px  0px;
+}
+
+.footerdrkbg{
+    background-color: #182054;
+    padding: 15px 0px;
+}
+
+.stayInLoop{
+    color: #ffffff;
+    font-size: 18px;
+    font-weight:500;
+}
+
+.stayinloopTxt{
+    color: #ffffff;
+}
+
+.Subscribe .form-control{
+    width: 73%;
+    float: left;
+}
+
+.contactUsInfo{
+    color: #ffffff;
+}
+
+.contactForm .form-control{
+    margin-bottom: 10px;
+}
+
+.contactForm {
+    color: #ffffff;
+}
+
+.contactHeading{
+    font-size: 26px;
+    color: #ffffff;
+}
+
+.socialMediaLinks{
+    font-size: 24px;
+    color: #ffffff;
+    margin-right: 12px;
+}
+
+.socialMediaLinksTxt{
+    font-size: 18px;
+    font-weight: 500;
+    color: #ffffff;
+}
+
+.signupforEmail{
+    font-size: 12px;
+}
+
+.submitBtn{
+    width: 100%;
+    margin-top: 10px;
+}
+
+.forQuotes{
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.fixed-top{
+    background-color: #ffffff;
+    box-shadow: 0px 15px 10px -15px #d4d4d4; 
+}
+
+.DigiquadContact{
+    margin-top: 20px;
+}
