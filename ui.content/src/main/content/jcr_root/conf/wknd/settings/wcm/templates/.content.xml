@@ -4,5 +4,6 @@
     jcr:primaryType="cq:Page">
     <page-content/>
     <xf-web-variation/>
+	<dq-home-page/>
     <rep:policy/>
 </jcr:root>
