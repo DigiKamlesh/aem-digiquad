@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Content-Package-Id: my_packages:Digi11
+Content-Package-Roots: //apps/wknd/components/digi11
+Content-Package-Type: content
+
